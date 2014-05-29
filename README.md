@@ -1,4 +1,4 @@
-# ClickLabelExtension Add-on for Vaadin 7
+## ClickLabelExtension Add-on for Vaadin 7
 
 ClickLabelExtension is an UI component add-on for Vaadin 7.
 
