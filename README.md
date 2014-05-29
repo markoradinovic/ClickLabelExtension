@@ -60,6 +60,7 @@ ClickLabelExtension is written by Marko Radinovic
 
 # Developer Guide
 
+
 ## Getting started
 
 Here is a simple example on how to try out the add-on component:
