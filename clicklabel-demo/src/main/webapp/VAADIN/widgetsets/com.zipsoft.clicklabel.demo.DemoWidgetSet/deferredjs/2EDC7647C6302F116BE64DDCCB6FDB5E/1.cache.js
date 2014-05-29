@@ -1,0 +1,1 @@
+$wnd.com_zipsoft_clicklabel_demo_DemoWidgetSet.runAsyncCallback1('q8(428,1,Vnd);_.nc=function v$b(){DPb((!yPb&&(yPb=new EPb),yPb),this.b.e)};ccd(Vh)(1);\n//# sourceURL=com.zipsoft.clicklabel.demo.DemoWidgetSet-1.js\n')

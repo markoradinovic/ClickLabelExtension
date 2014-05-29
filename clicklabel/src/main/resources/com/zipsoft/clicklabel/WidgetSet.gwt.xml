@@ -1,0 +1,14 @@
+<module>
+
+	<!-- WS Compiler: manually edited -->
+
+	<!-- Inherit DefaultWidgetSet -->
+	<inherits name="com.vaadin.DefaultWidgetSet" /> 
+
+	<!-- Widget styles in public -directory -->
+	<stylesheet src="clicklabel/styles.css"/>
+        
+        <source path="client"/>
+        <source path="shared"/>
+
+</module>
