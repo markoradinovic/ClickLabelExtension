@@ -77,12 +77,12 @@ extension.addClickLabelListener(new ClickLabelListener() {
 	public void onLabelClick(ClickLabelEvent event) {
 		final StringBuilder s = new StringBuilder();
 		s.append("Clicked Element Details \n");
-		s.append("event.getClickedElementDetails().getTagName() + "\n");
-		s.append("event.getClickedElementDetails().getId() + "\n");
-		s.append("event.getClickedElementDetails().getClassName() + "\n");
-		s.append("event.getClickedElementDetails().getHtml() + "\n");
-		s.append("event.getClickedElementDetails().getInnerHtml() + "\n");
-		s.append("event.getClickedElementDetails().getInnerText() + "\n");
+		s.append(event.getClickedElementDetails().getTagName() + "\n");
+		s.append(event.getClickedElementDetails().getId() + "\n");
+		s.append(event.getClickedElementDetails().getClassName() + "\n");
+		s.append(event.getClickedElementDetails().getHtml() + "\n");
+		s.append(event.getClickedElementDetails().getInnerHtml() + "\n");
+		s.append(event.getClickedElementDetails().getInnerText() + "\n");
 		s.append("-----------\n");
 		s.append("MouseEventDetails\n");
 		s.append(event.getMouseDetails().toString());
